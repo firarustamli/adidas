@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head_list > ul > li:hover{
+    border-bottom: 1px solid black;
+}
+.banner{
+    width: 100%;
+    height: 790px;
+    background-image: url(https://brand.assets.adidas.com/image/upload/f_auto,q_auto,fl_lossy/if_w_gt_1920,w_1920/enUS/Images/ub10--mh-lg-m-d_tcm221-1056615.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+.men_button > a .women_button > a{
+    transition: 0.5s;
+}
+
+.yeezy{
+    background-color: rgb(237, 237, 227);
+}
+
+
+.shoes_content{
+    background-color: rgb(235, 239, 241);
+}
+
+.footer_head > li{
+    margin-top: 4px;
+}
+.footer_head > li:hover{
+    border-bottom: 1px solid black;
+}
+.privacy ul li{
+   
+        margin-top: 30px;
+        color: #abadb1;
+        font-size: 14px;
+}
+
+
